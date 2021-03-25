@@ -1,9 +1,6 @@
-* 👋 Hi, I’m @372dev *
+***👋 Hi, I’m @372dev***
 
 ***
-
-https://github-readme-stats.vercel.app/api?username=372dev&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username=372dev&theme=blue-green
 
 **🛠 &nbsp;Tech Stack**
 
