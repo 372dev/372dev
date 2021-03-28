@@ -5,9 +5,9 @@
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-00748e?style=for-the-badge&logo=java&logoColor=#f29111)
+  ![HTML](https://img.shields.io/badge/HTML-ebebeb?style=for-the-badge&logo=html5&logoColor=0170bae)
+  ![CSS](https://img.shields.io/badge/CSS-ebebeb?&style=for-the-badge&logo=css3&logoColor=e44d26)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - Frameworks: &nbsp;
