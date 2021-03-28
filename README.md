@@ -22,6 +22,6 @@
 - IDEs: &nbsp;
   ![Eclipse](https://img.shields.io/badge/Eclipse-ebebeb?style=for-the-badge&logo=eclipse&logoColor=4F0599)
   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-ebebeb?style=for-the-badge&logo=visual-studio-code&logoColor=008BDD)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-ebebeb?style=for-the-badge&logo=intelliJ-IDEA)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-ebebeb?style=for-the-badge&logo=intelliJ-IDEA&logoColor=black)
   
 ***
