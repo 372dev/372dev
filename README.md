@@ -10,9 +10,10 @@
   ![CSS](https://img.shields.io/badge/CSS-ebebeb?&style=for-the-badge&logo=css3&logoColor=e44d26)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Frameworks: &nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Frameworks / Libraries: &nbsp;
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-111111?style=for-the-badge&logo=jquery&logoColor=blue)
 
 - Databases:  &nbsp;
   ![OracleDB](https://img.shields.io/badge/Oracle%20DB-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
